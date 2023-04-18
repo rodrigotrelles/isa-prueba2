@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Mai(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
